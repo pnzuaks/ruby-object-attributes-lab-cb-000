@@ -8,5 +8,6 @@ class Dog
     @breed
   end 
   
-  def breed=()
+  def breed=(new_breed)
+    
 end
