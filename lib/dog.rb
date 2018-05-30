@@ -1,5 +1,6 @@
 class Dog 
-  def breed() 
+  
+  def initialize() 
   end
   
 end
